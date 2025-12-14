@@ -1,0 +1,12 @@
+C:\exCS\FinalHomework\bin\Debug\FinalHomework.exe.config
+C:\exCS\FinalHomework\bin\Debug\FinalHomework.exe
+C:\exCS\FinalHomework\bin\Debug\FinalHomework.pdb
+C:\exCS\FinalHomework\obj\Debug\FinalHomework.csproj.AssemblyReference.cache
+C:\exCS\FinalHomework\obj\Debug\FinalHomework.Form1.resources
+C:\exCS\FinalHomework\obj\Debug\FinalHomework.Properties.Resources.resources
+C:\exCS\FinalHomework\obj\Debug\FinalHomework.csproj.GenerateResource.cache
+C:\exCS\FinalHomework\obj\Debug\FinalHomework.csproj.CoreCompileInputs.cache
+C:\exCS\FinalHomework\obj\Debug\FinalHomework.exe
+C:\exCS\FinalHomework\obj\Debug\FinalHomework.pdb
+C:\exCS\FinalHomework\obj\Debug\FinalHomework.Form2.resources
+C:\exCS\FinalHomework\obj\Debug\FinalHomework.Form3.resources
